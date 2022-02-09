@@ -1,0 +1,49 @@
+li {
+  list-style-position: inside;
+  font-size: 30px;
+}
+
+h1 {
+  text-align: left;
+  color: #f76e11;
+}
+
+section {
+  text-align: center;
+}
+
+body {
+  color: black;
+  background-color: #ffeddb;
+  font-family: "Oswald", sans-serif;
+}
+
+nav {
+  font-size: 25px;
+  text-align: center;
+}
+
+h2,
+h3 {
+  color: #f76e11;
+  font-size: 45px;
+}
+p {
+  font-size: 25px;
+  font-weight: bold;
+}
+img {
+  height: 500pt;
+  width: auto;
+}
+#iletisim {
+  font-size: 20px;
+}
+#iletisimsol {
+  text-align: left;
+  font-size: 30px;
+}
+
+ul > a {
+  color: #323232;
+}
